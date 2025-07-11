@@ -21,7 +21,7 @@ The project follows a small organization based on **Domain-Driven Design (DDD)**
 
 1.  Clone the repository:
     
-`   git clone   cd powerplant_solved   `
+`   git clone  https://github.com/marcos-mendez-tmc/powerplant_solved   `
 
 1.  Build the container:
     
